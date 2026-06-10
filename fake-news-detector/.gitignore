@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Generated artifacts (keep .pkl out of git for size; uncomment if you prefer)
+# models/*.pkl
